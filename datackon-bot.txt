@@ -1,5 +1,6 @@
 Jurusan Teknologi Informasi (TI) Politeknik Negeri Jember atau yang sering disingkat menjadi JTI Polije ini didirikan pada tahun 2007 dengan surat keputusan Direktorat Jenderal Pendidikan Tinggi Departemen Pendidikan Nasional Republik Indonesia Nomor: 3870/K14/KP/SK/2007 tanggal 25 Agustus 2007.
 
+
 Jurusan di Teknologi Informasi ini ada tiga program studi yaitu
 1. D3 Manajemen Informatika
 2. D3 Teknik Komputer
@@ -20,8 +21,8 @@ Kalo kamu tanya tentang tujuan jurusan TI, maka Tujuan Strategis JTI Polije tahu
     - Peningkatan kapasitas dan kualitas hasil manfaat kerjasama.
 
 Untuk mempersiapkan prayudisium di jurusan TI, setidaknya kamu perlu mengurusi beberapa hal, yaitu
-1.  Mengunggah laporan skripsi dan laporan PKL lengkap ttd ke ruang baca [acc] 
-2. Mengunggah berkas prayudisium lengkap ttd ke google drive yang sudah disediakan berupa
+    - Mengunggah laporan skripsi dan laporan PKL lengkap ttd ke ruang baca [acc] 
+    - Mengunggah berkas prayudisium lengkap ttd ke google drive yang sudah disediakan berupa:
     a. Berita  acara skripsi 
     b. Berita acara  PKL 
     c. Bebas tanggungan upt perpustakaan 
@@ -46,8 +47,16 @@ Bebas tanggungan laboratorium bisa dilakukan dengan memasukkan nama mahasiswa be
 Bebas tanggungan keuangan sudah bisa diurus setelah selesai sidang atau setelah mengurusi revisi laporan skripsi karena yang dibutuhkan untuk mengurus bebas tanggungan keuangan adalah berita acara sidang skripsi.
 kamu bisa menghubungi Pak Agung bagian keuangan polije di nomor 0812-1624-9611
 
-Jika kamu bertanya mengenai bebas tanggungan cdc atau bebas tanggungan JPC maka yang perlu kamu lakukan yaitu menghubungi bagian admin JPC di Telegram: 08113591500 & 085236449245
-Persyaratan yang perlu kamu penuhi untuk mengurus bebas tanggungan CDC atau bebas tanggungan JPC yaitu
+Bebas tanggungan perpustakaan bisa kamu urus dengan cara mengunggah laporan skripsi dan laporan PKL mu di sipora polije yaa (https://sipora.polije.ac.id)
+Jangan lupa lakukan turnitin terlebih dahulu pada laporan skripsi kamu, hubungi : Rere (0812-3112-3822) untuk mengurus turnitin oke? 
+
+Jika kamu ingin menghubungi petugas perpustakaan atau admin perpustakaan untuk informasi terkait sipora atau bebas tanggungan perpustakaan, kamu bisa menghubungi:
+    - Lia (0896-3536-0064) untuk mengurus sipora [Kampus Jember]
+    - Riza (0852-3059-4934) untuk mengurus sipora [Kampus Bondowoso] namun kamu bisa menghubungi keduanya karena tidak masalah, toh bakal dijawab juga
+    - Sri (0821-3243-8168) untuk mengurusi tanggungan pinjaman buku & surat keterangan bebas pustaka
+    - Rere (0812-3112-3822) untuk mengurus turnitin
+
+Jika kamu bertanya mengenai bebas tanggungan cdc atau bebas tanggungan JPC maka yang perlu kamu lakukan yaitu menghubungi bagian admin JPC di Telegram: 08113591500 & 085236449245 dan Persyaratan yang perlu kamu penuhi untuk mengurus bebas tanggungan CDC atau bebas tanggungan JPC yaitu
     1. mengisi Kuesioner Tracer Study Polije 2021 http://bit.ly/ExitSurveyCalonAlumniPolije (JIKA SELESAI PENGISIAN MOHON DI SCREESHOT)
     2. Berita Acara Tugas Akhir (BUKTI MOHON DI SCREESHOT)
     3. Membuat account linkedln ( profil foto resmi yudisium / foto wisuda dengan background diganti putih)-(BUKTI MOHON DI SCREESHOT)
@@ -65,7 +74,7 @@ Persyaratan yang perlu kamu penuhi untuk mengurus bebas tanggungan CDC atau beba
 
 Bebas tanggungan prodi bisa temen-temen cicil juga ya dilakukan dengan mengunggah / mengupload laporan skripsi dan laporan PKL temen-temen ke ruang baca JTI polije.
 Setelah teman-teman mengunggah laporan skripsi dan pkl di ruang baca JTI maka teman-teman bisa menghubungi admin prodi untuk mengurus bebas tanggungan prodi.
-Jangan lupa bahwa perlu bukti acc ruang baca jti ya teman-teman.
+Jangan lupa bahwa perlu bukti acc ruang baca jti ya teman-teman.sebelum mengunggah laporan di ruang baca JTI jangan lupa untuk unggah logbook pkl dan proposal pkl di google drive yang sudah tersedia ya: https://tinyurl.com/PROPOSAL-DAN-LOG-HARIAN-PKL
 
 Jika kamu tanya mengenai bagaimana cara mendapatkan surat keterangan telah menyerahkan Laporan Skripsi dan Laporan PKL selama ppkm atau secara online, maka teman-teman perlu mengurusi
 1. Surat keterangan telah skripsi dengan ttd kajur
