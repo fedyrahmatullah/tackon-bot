@@ -18,3 +18,14 @@ sent_tokens = nltk.sent_tokenize(raw)
 salam_input = ("halo","hai", "hallo","hi","salam","hei","hey","ay","heh","oy", "ay","sayang","tackon", "halo tackon","hai tackon","bot")
 respon_salam = ["halo","hai", "hallo","hi","hei","hey","ay","oy", "ay","iya sayang","tackon disini","hai ada yang bisa tackon bantu?","*senyum* :)", "nggih?", "dalem"]
 respon_bingung =["maksudnya?","maaf?", "saya gabisa jawab","hah? maaf?","apa? ucapkan dengan bahasa yang mudah dimengerti dong", "gangerti aku awakmu ngomong opo","tolong tanya dengan bahasa indonesia yang bisa dimengerti"]
+
+def LemNormalize(text):
+    remove_punct_dict = dict((ord(punct), None) for punct in string.punctuation)
+    return [token for token in nltk.word_tokenize(text.lower().translate(remove_punct_dict))]
+
+#ngerespon salam
+def greeting(sentence):
+    """jika usernya nyapa, bakal disapa juga"""
+    for word in sentence.split():
+        if word.lower() in salam_input:
+            return random.choice(respon_salam)
