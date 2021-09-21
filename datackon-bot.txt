@@ -27,7 +27,7 @@ Untuk mempersiapkan prayudisium di jurusan TI, setidaknya kamu perlu mengurusi b
     c. Bebas tanggungan upt perpustakaan 
     d. Bebas tanggungan JPC
     e. Kartu Kendali  (kelengkapan prodi)
-    f.  Berita acara sempro / Daftar  hadir seminar  proposal  (kelengkapan prodi) 
+    f. Berita acara sempro / Daftar  hadir seminar  proposal  (kelengkapan prodi) 
     g. Laporan Skripsi  & Laporan PKL bentuk  Word dan PDF (kelengkapan prodi) 
     h. KHS lengkap  mulai smt 1 s.d  8 lengkap (CUKUP AMBIL dari sim.online saja, walaupun blm lengkap ttd gpp) 
     i. Ijazah SMA, KTP dan KK 
@@ -36,10 +36,12 @@ Untuk mempersiapkan prayudisium di jurusan TI, setidaknya kamu perlu mengurusi b
 
 Untuk mengurusi bebas tanggungan setelah sidang, ada beberapa bebas tanggungan yang perlu diurus yaitu
     1. Bebas tanggungan laboratorium, umumnya mahasiswa JTI tidak perlu mengurus bebas tanggungan laboratorium
-    2. Bebas tanggungan career development & counseling(CDC) atau disebut juga bebas tangg JPC
+    2. Bebas tanggungan career development & counseling (CDC) atau disebut juga bebas tangg JPC
     3. Bebas tanggungan Keuangan
     4. Bebas tanggungan perpustakaan
     5. Bebas tanggungan prodi
+
+Bebas tanggungan laboratorium bisa dilakukan dengan memasukkan nama mahasiswa berkewajiban laboratorium di Sistem bebas tanggungan laboratorium, namun setau Tacko mahasiswa Jurusan TI / JTI tidak perlu mengurusi bebas tanggungan laboratorium, setau tacko selama ppkm si begitu :(
 
 Bebas tanggungan keuangan sudah bisa diurus setelah selesai sidang atau setelah mengurusi revisi laporan skripsi karena yang dibutuhkan untuk mengurus bebas tanggungan keuangan adalah berita acara sidang skripsi.
 kamu bisa menghubungi Pak Agung bagian keuangan polije di nomor 0812-1624-9611
@@ -59,4 +61,16 @@ Persyaratan yang perlu kamu penuhi untuk mengurus bebas tanggungan CDC atau beba
     - Jurusan  
     - Program Studi
     # Perlu diingat ya teman-teman bahwa gunakan EMAIL utama anda (Jangan Berubah) 
-    # Juga unakan Nomor HP utama anda (Jangan Berubah) 
+    # Juga unakan Nomor HP utama anda (Jangan Berubah)
+
+Bebas tanggungan prodi bisa temen-temen cicil juga ya dilakukan dengan mengunggah / mengupload laporan skripsi dan laporan PKL temen-temen ke ruang baca JTI polije.
+Setelah teman-teman mengunggah laporan skripsi dan pkl di ruang baca JTI maka teman-teman bisa menghubungi admin prodi untuk mengurus bebas tanggungan prodi.
+Jangan lupa bahwa perlu bukti acc ruang baca jti ya teman-teman.
+
+Jika kamu tanya mengenai bagaimana cara mendapatkan surat keterangan telah menyerahkan Laporan Skripsi dan Laporan PKL selama ppkm atau secara online, maka teman-teman perlu mengurusi
+1. Surat keterangan telah skripsi dengan ttd kajur
+2. Surat keterangan telah PKL dengan ttd kajur
+3. Bukti penyerahan Laoran skripsi (bukti acc ruang baca JTI)
+4. Bukti penyerahan laporan PKL (bukti acc ruang baca JTI)
+Dengan tanda tangan kajur berarti surat sudah lengkap, karena untuk jurusan TI menggunakan aplikasi atau website ruang baca sebagai bukti penyerahan laporan PKl dan skripsi, 
+dan pada saat kalian mengajukan ttd / tanda tangan ke pak kajur harus melampirkan bukti ruang baca, karena itu sebagai bukti sudah acc ruang baca dan sebagai DASAR kelengkapan ttd pak kajur
